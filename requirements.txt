@@ -1,0 +1,11 @@
+pandas>=2.2,<3
+numpy
+matplotlib
+seaborn
+scikit-learn
+folium
+tabulate
+geopy
+plotly
+jupyter
+ipykernel
